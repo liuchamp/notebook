@@ -1,7 +1,7 @@
 {
-  "title": "demo",//标题
-  "description": "demo",//文档描述
-  "language": "zh",//选择编辑的语言环境
+  "title": "demo",
+  "description": "demo",
+  "language": "zh",
   "plugins": [ //引入需要的插件，前面有-号的为uninstall相应的插件
     "disqus",
     "github",
