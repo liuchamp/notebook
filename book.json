@@ -1,4 +1,7 @@
 {
+
+"title": "nodebook",
+""
 "pdf": {
         // Add page numbers to the bottom of every page
         "pageNumbers": false,
