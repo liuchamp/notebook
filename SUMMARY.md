@@ -4,6 +4,6 @@
 * [linux](linux.md)
 * nodejs
 * [go](go.md)
-* java 
-* python
+* [java ](java.md)
+* [python](python.md)
 
