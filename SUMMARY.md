@@ -8,4 +8,6 @@
 * [go](go.md)
 * [java ](java.md)
 * [python](python.md)
+* [mac 操作习惯](mac-cao-zuo-xi-guan.md)
+  * [delete](mac-cao-zuo-xi-guan/delete.md)
 
