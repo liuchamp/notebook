@@ -10,4 +10,5 @@
 * [python](python.md)
 * [mac 操作习惯](mac-cao-zuo-xi-guan.md)
   * [delete](mac-cao-zuo-xi-guan/delete.md)
+  * [iterm2](mac-cao-zuo-xi-guan/iterm2.md)
 
