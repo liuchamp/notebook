@@ -15,5 +15,5 @@ func generate6SmsVerCode(timeOut int64) string {
 }
 ```
 
-上面的timeout必须传值
+上面的timeout必须传值。
 
