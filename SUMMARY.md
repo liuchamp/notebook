@@ -6,6 +6,8 @@
     * [lsof](linux/jin-cheng-xian-cheng-cha-kan/lsof.md)
 * nodejs
 * [go](go.md)
+  * 指针
+  * 默认参数
 * [java ](java.md)
 * [python](python.md)
 * [mac 操作习惯](mac-cao-zuo-xi-guan.md)
