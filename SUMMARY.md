@@ -6,7 +6,7 @@
     * [lsof](linux/jin-cheng-xian-cheng-cha-kan/lsof.md)
 * nodejs
 * [go](go.md)
-  * 指针
+  * [指针](go/zhi-zhen.md)
   * [默认参数](go/mo-ren-can-shu.md)
   * [结构体标签](go/jie-gou-ti-biao-qian.md)
   * [反射](go/fan-she.md)
