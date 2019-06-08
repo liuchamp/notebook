@@ -6,15 +6,14 @@
 //** 生成6位的sms验证码
 func generate6SmsVerCode(timeOut int64) string {
 
-	rnd := rand.New(rand.NewSource(time.Now().UnixNano()))
-	vcode := fmt.Sprintf("%06v", rnd.Int31n(1000000))
-	if timeOut <= 0 {
-		fmt.Println("not in put code", timeOut)
-	}
-	return vcode
+    rnd := rand.New(rand.NewSource(time.Now().UnixNano()))
+    vcode := fmt.Sprintf("%06v", rnd.Int31n(1000000))
+    if timeOut <= 0 {
+        fmt.Println("not in put code", timeOut)
+    }
+    return vcode
 }
-
 ```
 
-
+上面的timeout必须传值
 
