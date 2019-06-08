@@ -10,6 +10,7 @@
   * 默认参数
   * [结构体标签](go/jie-gou-ti-biao-qian.md)
   * [反射](go/fan-she.md)
+  * [常用开发者技巧](go/chang-yong-kai-fa-zhe-ji-qiao.md)
 * [java ](java.md)
 * [python](python.md)
 * [mac 操作习惯](mac-cao-zuo-xi-guan.md)
