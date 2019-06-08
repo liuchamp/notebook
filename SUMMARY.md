@@ -8,6 +8,8 @@
 * [go](go.md)
   * 指针
   * 默认参数
+  * [结构体标签](go/jie-gou-ti-biao-qian.md)
+  * [反射](go/fan-she.md)
 * [java ](java.md)
 * [python](python.md)
 * [mac 操作习惯](mac-cao-zuo-xi-guan.md)
