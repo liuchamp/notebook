@@ -13,6 +13,7 @@
   * [常用开发者技巧](go/chang-yong-kai-fa-zhe-ji-qiao.md)
   * go-redis
   * [go-mirco](go/go-mirco.md)
+  * [NSQ](go/nsq.md)
 * [java ](java.md)
 * [python](python.md)
 * [mac 操作习惯](mac-cao-zuo-xi-guan.md)
