@@ -11,7 +11,7 @@
   * [结构体标签](go/jie-gou-ti-biao-qian.md)
   * [反射](go/fan-she.md)
   * [常用开发者技巧](go/chang-yong-kai-fa-zhe-ji-qiao.md)
-  * go-redis
+  * [go-redis](go/go-redis.md)
   * [go-mirco](go/go-mirco.md)
   * [NSQ](go/nsq.md)
 * [java ](java.md)
