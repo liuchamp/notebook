@@ -5,7 +5,7 @@ redis事务\(Transaction\)命令
 1. watch
 2. UNwatch
 3. multi
-4. exec
+4. exec 执行事务块的所有命令，如果命令被中断，返回false.
 
 事务ACID性质
 
