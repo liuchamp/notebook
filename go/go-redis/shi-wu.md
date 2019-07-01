@@ -2,10 +2,10 @@ Redis 通过[MULTI](http://redis.readthedocs.org/en/latest/transaction/multi.htm
 
 redis事务\(Transaction\)命令
 
-1. watch
-2. UNwatch
-3. multi
-4. exec 执行事务块的所有命令，如果命令被中断，返回false.
+1. watch 用于监视一个以上的key，这些key如果在执行事务之前被更改，事务中断。
+2. UNwatch 用于取消watch命令对所有key的监视。
+3. multi 用于标记事务块开始，之后的说明命令都放在队列。
+4. exec 执行事务块的所有命令，如果命令被中断，返回false。
 
 事务ACID性质
 
