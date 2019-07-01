@@ -1,3 +1,5 @@
+Redis 通过[MULTI](http://redis.readthedocs.org/en/latest/transaction/multi.html#multi)、[DISCARD](http://redis.readthedocs.org/en/latest/transaction/discard.html#discard)、[EXEC](http://redis.readthedocs.org/en/latest/transaction/exec.html#exec)和[WATCH](http://redis.readthedocs.org/en/latest/transaction/watch.html#watch)四个命令来实现事务功能。
+
 事务ACID性质
 
 Redis 事务保证了其中的一致性（C）和隔离性（I），但并不保证原子性（A）和持久性（D）。
