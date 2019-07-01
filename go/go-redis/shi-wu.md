@@ -2,6 +2,11 @@ Redis 通过[MULTI](http://redis.readthedocs.org/en/latest/transaction/multi.htm
 
 redis事务\(Transaction\)命令
 
+1. watch
+2. UNwatch
+3. multi
+4. exec
+
 事务ACID性质
 
 Redis 事务保证了其中的一致性（C）和隔离性（I），但并不保证原子性（A）和持久性（D）。
