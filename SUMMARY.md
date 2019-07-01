@@ -12,6 +12,7 @@
   * [反射](go/fan-she.md)
   * [常用开发者技巧](go/chang-yong-kai-fa-zhe-ji-qiao.md)
   * [go-redis](go/go-redis.md)
+    * [事务](go/go-redis/shi-wu.md)
   * [go-mirco](go/go-mirco.md)
   * [NSQ](go/nsq.md)
   * [go面试经典](go/gomian-shi-jing-dian.md)
