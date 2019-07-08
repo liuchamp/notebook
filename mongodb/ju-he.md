@@ -16,7 +16,7 @@ $group语法
  { $group: { _id: <expression>, <field1>: { <accumulator1> : <expression1> }, ... } }
 ```
 
-```
+```js
 db.getCollection('cc_statistics').aggregate([
     { $match: { time: { $gte: 1562432400000, $lt: 1562605200000 } } },
     {
