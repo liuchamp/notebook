@@ -16,5 +16,28 @@ $group语法
  { $group: { _id: <expression>, <field1>: { <accumulator1> : <expression1> }, ... } }
 ```
 
+```
+db.getCollection('cc_statistics').aggregate([
+    { $match: { time: { $gte: 1562432400000, $lt: 1562605200000 } } },
+    {
+        $group: {
+            _id: {
+                $subtract: [
+                    { $subtract: ["$time", 1476118800000] },
+                    {
+                        $mod: [
+                            { $subtract: ["$time", 1476118800000] }, 1000 * 60 * 30
+                        ]
+                    }
+                ]
+            },
+            value: { $sum: "$value" },
+            timelist: { $push: "$time" }
+        }
+    },
+    { $sot: { time: 1 } }
+])
+```
+
 
 
