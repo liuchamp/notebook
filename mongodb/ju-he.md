@@ -4,7 +4,7 @@
 
 #### aggregate语法
 
-```
+```js
 db.collection.aggregate(pipeline, options)
 ```
 
