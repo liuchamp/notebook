@@ -6,11 +6,9 @@
 
 db.collection.aggregate\(pipeline, options\)
 
+$group : 将集合中的文档分组，可用于统计结果，$group首先将数据根据key进行分组。
 
 
- $group : 将集合中的文档分组，可用于统计结果，$group首先将数据根据key进行分组。
 
 
-
-      $group语法： { $group: { \_id: &lt;expression&gt;, &lt;field1&gt;: { &lt;accumulator1&gt; : &lt;expression1&gt; }, ... } }
 
