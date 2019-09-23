@@ -8,7 +8,9 @@
 * [go](go.md)
   * [指针](go/zhi-zhen.md)
   * [默认参数](go/mo-ren-can-shu.md)
-  * [结构体标签](go/jie-gou-ti-biao-qian.md)
+  * [结构体](go/jie-gou-ti-biao-qian.md)
+    * 标签
+    * [nil](go/jie-gou-ti-biao-qian/nil.md)
   * [反射](go/fan-she.md)
   * [常用开发者技巧](go/chang-yong-kai-fa-zhe-ji-qiao.md)
   * [go-redis](go/go-redis.md)
