@@ -23,6 +23,7 @@
     * [chan的极限问题](go/tong-dao-chu-li/chande-ji-xian-wen-ti.md)
     * [锁](go/tong-dao-chu-li/suo.md)
     * [协程](go/tong-dao-chu-li/xie-cheng.md)
+      * [协程间采用chan来传递值](go/tong-dao-chu-li/xie-cheng/xie-cheng-jian-cai-yong-chan-lai-chuan-di-zhi.md)
 * [java ](java.md)
 * [python](python.md)
 * [mac 操作习惯](mac-cao-zuo-xi-guan.md)
