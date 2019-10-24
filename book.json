@@ -1,6 +1,73 @@
 {
-  "title": "cpp开发规范",
-  "description": "服务器开发代码",
+  "title": "开发笔记",
+  "description": "总结开发遇到的问题",
   "language": "zh",
-  "plugins": ["katex"]
+  "plugins": [
+    "-highlight",
+    "prism",
+    "popup",
+    "prism-themes",
+    "splitter",
+    "include-codeblock",
+    "code",
+    "back-to-top-button",
+    "ace",
+    "page-footer-ex",
+    "advanced-emoji",
+    "-search",
+    "-sharing",
+    "emphasize",
+    "expandable-chapters",
+    "redirect",
+    "sharing-plus",
+    "search-pro"
+  ],
+  "pluginsConfig": {
+    "prism": {
+      "css": ["prismjs/themes/prism-solarizedlight.css"]
+    },
+    "include-codeblock": {
+      "template": "ace",
+      "unindent": true,
+      "edit": false
+    },
+    "sharing": {
+      "douban": false,
+      "facebook": false,
+      "google": false,
+      "hatenaBookmark": false,
+      "instapaper": false,
+      "line": false,
+      "linkedin": false,
+      "messenger": false,
+      "pocket": false,
+      "qq": true,
+      "qzone": true,
+      "stumbleupon": false,
+      "twitter": false,
+      "viber": false,
+      "vk": false,
+      "weibo": true,
+      "whatsapp": false,
+      "all": [
+        "facebook",
+        "google",
+        "twitter",
+        "weibo",
+        "qq",
+        "linkedin",
+        "qzone",
+        "douban"
+      ]
+    },
+    "code": {
+      "copyButtons": true
+    },
+    "page-footer-ex": {
+      "copyright": "champ开发",
+      "markdown": true,
+      "update_label": "此页面修订于：",
+      "update_format": "YYYY-MM-DD HH:mm:ss"
+    }
+  }
 }
