@@ -1,6 +1,6 @@
 {
-"title": "cpp开发规范",
+  "title": "cpp开发规范",
   "description": "服务器开发代码",
-"language": "zh",
-    "plugins": ["katex"]
+  "language": "zh",
+  "plugins": ["katex"]
 }
