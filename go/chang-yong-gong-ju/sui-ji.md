@@ -1,6 +1,4 @@
-uuid
-
-
+uuid:基本上是google的
 
 随机数；
 
