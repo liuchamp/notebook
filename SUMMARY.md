@@ -25,6 +25,8 @@
     * [协程](go/tong-dao-chu-li/xie-cheng.md)
       * [协程间采用chan来传递值](go/tong-dao-chu-li/xie-cheng/xie-cheng-jian-cai-yong-chan-lai-chuan-di-zhi.md)
   * [数值转化](go/shu-zhi-zhuan-hua.md)
+  * [常用工具](go/chang-yong-gong-ju.md)
+    * [随机](go/chang-yong-gong-ju/sui-ji.md)
 * [java ](java.md)
 * [python](python.md)
 * [mac 操作习惯](mac-cao-zuo-xi-guan.md)
