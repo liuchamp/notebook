@@ -37,4 +37,5 @@
   * [聚合](mongodb/ju-he.md)
 * [ops](ops.md)
   * [caddy](ops/caddy.md)
+* redis
 
