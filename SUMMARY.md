@@ -39,4 +39,6 @@
   * [caddy](ops/caddy.md)
 * [redis](redis.md)
   * [set](redis/set.md)
+* [西方经济学](xi-fang-jing-ji-xue.md)
+  * [经济学研究对象](xi-fang-jing-ji-xue/jing-ji-xue-yan-jiu-dui-xiang.md)
 
